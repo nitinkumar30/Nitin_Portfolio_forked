@@ -10,8 +10,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Shabbir | Blockchain Developer</title>
-        <meta name="description" content="I’m a Blockchain developer specializing in building (and occasionally designing) exceptional digital experiences." />
+        <title>Nitin | Automation Developer</title>
+        <meta name="description" content="I’m a Automation developer specializing in automating exceptional tasks." />
         <link rel="icon" href="/fav.png" />
       </Head>
     <Main />
