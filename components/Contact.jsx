@@ -39,10 +39,10 @@ const Contact = () => {
                 />
               </div>
               <div>
-                <h2 className='py-2'>Shabbir Khandwala</h2>
-                <p>Blockchain  Developer</p>
+                <h2 className='py-2'>Nitin Kumar</h2>
+                <p>Automation  Developer</p>
                 <p className='py-4'>
-                  I am available for freelance or full-time positions. Contact
+                  I am available for full-time positions. Contact
                   me and let&apos;s talk.
                 </p>
               </div>
@@ -50,14 +50,14 @@ const Contact = () => {
                 <p className='uppercase pt-8'>Connect With Me</p>
                 <div className='flex items-center justify-between py-4'>
                   <a
-                    href='https://www.linkedin.com/in/shabbiryk/'
+                    href='https://www.linkedin.com/in/nitin30kumar/'
                     
                   >
                     <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                       <FaLinkedinIn />
                     </div>
                   </a>
-                  <a href='https://github.com/shabbiryk' >
+                  <a href='https://github.com/nitinkumar30' >
                     <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                       <FaGithub />
                     </div>
@@ -66,7 +66,7 @@ const Contact = () => {
                   <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                     <AiOutlineMail />
                   </div>
-                  <Link href=''>
+                  <Link href='mailto:nitinkumarpythonic@gmail.com'>
                     <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                       <BsFillPersonLinesFill />
                     </div>
